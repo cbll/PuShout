@@ -1,6 +1,6 @@
 #pragma strict
 var mySkin: GUISkin;
-var myAudio: AudioSource;
+var myAudio: AudioSource;//Audio
 
 
 function OnGUI () {
