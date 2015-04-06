@@ -34,3 +34,5 @@ function Update () {
     	anim.SetBool("Walk", false);   	
     }
 }
+
+#christian edit
