@@ -1,8 +1,8 @@
 #pragma strict
-//lalala
 var Speed : float;
   
 function Start () {
+	Speed = 13;
 }
 
 function Update (){
