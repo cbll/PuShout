@@ -66,5 +66,3 @@ function FixedUpdate () {   //FixedUpdate is used because it is used with physic
 		GetComponent.<Rigidbody>().AddRelativeTorque(Vector3(xtorque, ytorque, ztorque));	//Adds the torque on all axis again. Does not compute new numbers just continues previous ones.
 	}
 }
-
-
